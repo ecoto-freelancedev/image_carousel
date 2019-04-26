@@ -1,0 +1,18 @@
+[
+  {
+    "serie": "Stranger Things",
+    "image" : "https://res.cloudinary.com/emazecom/image/fetch/c_limit,a_ignore,w_400,h_200/https%3A%2F%2Fuserscontent2.emaze.com%2Fimages%2Fde9ad35d-0ff6-4405-b9a9-f49d7222d65b%2F4a917fd7640a086d68108cb5ad936b68.jpg"
+  },
+  {
+    "serie": "Game Of Thrones",
+    "image" : "https://www.picclickimg.com/d/l400/pict/162250589393_/005-Game-of-Thrones-TV-Show-Season.jpg"
+  },
+  {
+    "serie": "Vikings",
+    "image" : "https://soloquantonevica.files.wordpress.com/2018/01/vikings.jpg?w=400&h=200&crop=1"
+  },
+  {
+    "serie": "Sons of Anarchy",
+    "image" : "http://3.bp.blogspot.com/_Gys2rvIEVZo/SqobqMTW8PI/AAAAAAAAAJs/w6nr2XR8jaU/s400/SoA.jpg"
+  }
+]

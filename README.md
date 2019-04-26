@@ -2,15 +2,16 @@
 
 <p>A simple example that implement a image carousel</p>
 
-![](screen_capture.gif)
+![](app.gif)
 
 ## Constructed with 🛠️
 
 - [Flutter](https://flutter-es.io) - used Framework
+- [carousel_pro](https://pub.dartlang.org/packages/carousel_pro#-readme-tab-) - used package
 
 ## Author ✒️
 
-- **Eduardo Coto** - creator's proyect.
+- **Eduardo Coto** - creator of proyect.
 
 ## License 📄
 
